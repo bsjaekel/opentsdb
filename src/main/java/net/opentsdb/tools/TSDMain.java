@@ -26,7 +26,7 @@ import org.jboss.netty.channel.socket.nio.NioServerSocketChannelFactory;
 
 import org.hbase.async.HBaseClient;
 
-import net.opentsdb.BuildData;
+import net.opentsdb.tools.BuildData;
 import net.opentsdb.core.TSDB;
 import net.opentsdb.tsd.PipelineFactory;
 
